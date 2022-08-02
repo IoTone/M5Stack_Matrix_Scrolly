@@ -1,2 +1,3 @@
-# M5Stack_Matrix_Scrolly
-An over engineered scrolling message program.
+# M5Stack Atom Matrix: Scrolly
+An over engineered scrolling message program for the Arduino IDE using the M5Stack Atom Matrix.
+
